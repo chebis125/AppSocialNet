@@ -7,17 +7,17 @@
 
  **Ejecuta la aplicación**:
 
-    ```bash
+    ```
     dotnet run --project AppSocialNet.Api
     ```
 
     Para la aplicación de consola:
 
-    ```bash
+    ```
     dotnet run --project AppSocialNet.ConsoleApp
     ```
 Ejemplo de comandos:
+```
 post Ivan "Hola desde Ivan"
-post Alfonso "Hola desde Alfonso"
 follow Ivan Alfonso
 dashboard Ivan
